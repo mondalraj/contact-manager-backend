@@ -18,3 +18,16 @@ Protected Routes (Need to be logged in to access)
 - [x] Add New Contact (POST /api/contacts)
 - [x] Update Contact (PUT /api/contacts/:id)
 - [x] Delete Contact (DELETE /api/contacts/:id)
+
+## Installation and Usage
+
+```bash
+# Install dependencies
+npm install
+
+# Serve on localhost:5000
+npm run dev (nodemon)
+
+# Build for production
+npm run build
+```
